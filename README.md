@@ -58,6 +58,7 @@ I focus on writing **maintainable, testable, and scalable code** with real-world
 
 ## ⚙️ Engineering Principles
 
+- ✔️ Clean Architecture & SOLID Principles
 - ✔️ Single Source of Truth
 - ✔️ Separation of Concerns
 - ✔️ Dependency Injection (get_it)
