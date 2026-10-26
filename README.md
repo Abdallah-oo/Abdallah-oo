@@ -79,7 +79,6 @@ I focus on writing **maintainable, testable, and scalable code** with real-world
 
 - 💼 LinkedIn: https://linkedin.com/in/Abdallah-oo  
 - 📧 Email: abdallah81786417@gmail.com  
-- 🐙 GitHub: https://github.com/Abdallah-oo
 - 🎨 Portfolio: https://abdallah-ahmed1.vercel.app/
 
 ---
