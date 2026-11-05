@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:08650B,50:0b3d2e,100:0f172a&height=260&section=header&text=Abdallah%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3ECF8E&center=true&vCenter=true&width=700&lines=Building+Production-Ready+Flutter+Apps;Clean+Architecture+%7C+BLoC+%7C+Supabase;Real-Time+Chat+%7C+Offline-First+%7C+Push+Notifications;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3ECF8E&center=true&vCenter=true&width=700&lines=Building+Production-Ready+Flutter+Apps;Clean+Architecture+%7C+BLoC+%7C+Supabase;Real-Time+Chat+%7C+Offline-First+%7C+Push+Notifications;" alt="Typing SVG" />
 </a>
 
 <br/>
